@@ -1,4 +1,5 @@
-hello git.
+hello Everone Welcome to my git tutorial.
+This branch is used for testing conflicts.
 
 i am adding this from 'feature-branch'
 
