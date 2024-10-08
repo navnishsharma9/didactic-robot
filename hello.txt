@@ -1,3 +1,7 @@
+hello git.
+Welcome,
+This comming from adrian.
+
 hello Everone Welcome to my git tutorial.
 This branch is used for testing conflicts.
 
